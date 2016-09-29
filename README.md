@@ -1,6 +1,6 @@
-# Random Quote - TypeScript
+# Angular2 - SystemJS
 
-A simple Angular 2 web application that displays a random quote on the page.
+A simple Angular 2 web application that displays a hello world. Taken from [this Udemy course](https://www.udemy.com/angular-2-from-the-ground-up)
 
 To work on this project:
 
@@ -9,3 +9,4 @@ To work on this project:
 * Run `npm run serve` to start a local development web server. You can now access the application at [localhost:8080](http://localhost:8080/).
 
 This example is part of the **Angular 2 From The Ground Up** course by Mirko Nasato.
+
